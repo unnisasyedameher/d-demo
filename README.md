@@ -1,2 +1,2 @@
 # d-demo
-For understanding purpose
+For understanding purpose. To get to know well about repo...
